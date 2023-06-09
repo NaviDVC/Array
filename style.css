@@ -1,0 +1,9 @@
+pre {
+    text-align: center;
+    font-size: 20px;
+    white-space: pre-wrap;
+}
+
+p {
+    color: yellowgreen;
+}
